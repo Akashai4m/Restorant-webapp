@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-color: black;
+  font-family: cormorant upright;
+}
+.About{
+   background-image: url(./images/bg.png);
+}
+.knife{
+  background-image: url(./images/G.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:40%;
 }
 
 .App-logo {
